@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there It's Abdullah👋
 
 # 💫 About Me:
-I'm currently learning software development. 
+A Computer Science Undergrad Student learning and implementing new skills because when you're a computer scientist learning never stops, if you find my profile useful, don't forget to add me.
 
 
 ## 🌐 Socials:

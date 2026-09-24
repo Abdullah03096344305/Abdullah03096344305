@@ -1,7 +1,7 @@
 ## Hi there It's Abdullah👋
 
 # 💫 About Me:
-A Computer Science Grad Student currently working as a Software Engineer at TECHRONIQS, where i learn - code - fix vibe code - writing code with best industry standards, if you find my profile intresting, don't forget to add me. kichaow 💫
+A Computer Science Grad Student currently working as a Software Engineer at TECHRONIQS, where i learn - code - fix vibe code - I write code with best industry standards, if you find my profile intresting, don't forget to add me. kichaow 💫
 
 
 
